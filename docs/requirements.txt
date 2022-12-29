@@ -12,7 +12,7 @@ xarray
 setuptools
 pandas
 pyproj
-proj
+proj==6.2.1
 GOES
 shapely
 pyshp

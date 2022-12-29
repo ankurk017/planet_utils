@@ -27,5 +27,4 @@
    :recursive:
 
    planet_utils.ahps
-   planet_utils.coast
 
