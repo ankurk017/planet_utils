@@ -1,16 +1,16 @@
-.. planetutils documentation master file, created by
-   sphinx-quickstart on Thu Dec 29 12:56:03 2022.
+.. planet_utils documentation master file, created by
+   sphinx-quickstart on Thu Dec 29 14:01:32 2022.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to planetutils's documentation!
-=======================================
+Welcome to planet_utils's documentation!
+========================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   modules
+
 
 Indices and tables
 ==================
