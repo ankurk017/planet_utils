@@ -12,8 +12,3 @@ xarray
 setuptools
 pandas
 pyproj
-proj==6.2.1
-GOES
-shapely
-pyshp
-cartopy==0.19.0.post1
