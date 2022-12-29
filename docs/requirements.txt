@@ -16,4 +16,4 @@ proj
 GOES
 shapely
 pyshp
-cartopy
+cartopy=0.19
