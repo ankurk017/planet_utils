@@ -1,3 +1,7 @@
+REM Copyright (C) PROWLER.io 2020 - All Rights Reserved
+REM Unauthorised copying of this file, via any medium is strictly prohibited
+REM Proprietary and confidential
+
 @ECHO OFF
 
 pushd %~dp0
@@ -21,7 +25,7 @@ if errorlevel 9009 (
 	echo.may add the Sphinx directory to PATH.
 	echo.
 	echo.If you don't have Sphinx installed, grab it from
-	echo.https://www.sphinx-doc.org/
+	echo.http://sphinx-doc.org/
 	exit /b 1
 )
 
