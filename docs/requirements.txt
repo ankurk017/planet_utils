@@ -9,4 +9,5 @@ jupyter
 matplotlib
 numpy
 xarray
+setuptools
 cartopy
