@@ -11,5 +11,9 @@ numpy
 xarray
 setuptools
 pandas
-cartopy
 pyproj
+proj
+GOES
+shapely
+pyshp
+cartopy
