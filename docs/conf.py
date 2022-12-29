@@ -32,15 +32,12 @@ extensions = [
     'sphinx.ext.autosummary',  # Create neat summary tables for modules/classes/methods etc
     'sphinx.ext.intersphinx',  # Link to other project's documentation (see mapping below)
     'sphinx.ext.viewcode',  # Add a link to the Python source code for classes, functions etc.
-    'sphinx_autodoc_typehints', # Automatically document param types (less noise in class signature)
-    'nbsphinx',  # Integrate Jupyter Notebooks and Sphinx
-    'IPython.sphinxext.ipython_console_highlighting'
 ]
 
 # Mappings for sphinx.ext.intersphinx. Projects have to have Sphinx-generated doc! (.inv file)
-intersphinx_mapping = {
-    "python": ("https://docs.python.org/3/", None),
-}
+#intersphinx_mapping = {
+#    "python": ("https://docs.python.org/3/", None),
+#}
 
 autosummary_generate = True  # Turn on sphinx.ext.autosummary
 autoclass_content = "both"  # Add __init__ doc (ie. params) to class summaries
