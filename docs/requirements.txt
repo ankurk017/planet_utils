@@ -10,4 +10,6 @@ matplotlib
 numpy
 xarray
 setuptools
+pandas
 cartopy
+pyproj
