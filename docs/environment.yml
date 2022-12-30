@@ -279,7 +279,6 @@ dependencies:
     - pydap==3.2.2
     - pydata-sphinx-theme==0.7.2
     - pyhdf==0.10.3
-    - pyhurr==0.1.0
     - pyrsistent==0.18.0
     - pysonde==0.8.0
     - python-box==6.0.2
@@ -318,7 +317,6 @@ dependencies:
     - toolz==0.12.0
     - traitlets==4.3.3
     - traittypes==0.2.1
-    - tropycal==0.6
     - typed-ast==1.5.4
     - typhon==0.8.0
     - typing-extensions==4.0.1
