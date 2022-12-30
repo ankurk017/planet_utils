@@ -23,7 +23,7 @@ jobs:
     
     - name: Build docs
       run: |
-        cd docs
+        sphinx-build docs _build
         make html
 
     # https://github.com/peaceiris/actions-gh-pages
