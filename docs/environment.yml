@@ -280,7 +280,6 @@ dependencies:
     - pydata-sphinx-theme==0.7.2
     - pyhdf==0.10.3
     - pyrsistent==0.18.0
-    - pysonde==0.8.0
     - python-box==6.0.2
     - python-utils==3.4.5
     - pytz==2022.6
@@ -296,7 +295,6 @@ dependencies:
     - scikit-image==0.17.2
     - scikit-learn==0.24.2
     - scipy==1.5.4
-    - seaborn==0.11.2
     - selfutils==0.1
     - send2trash==1.8.0
     - shapely==1.8.5.post1
