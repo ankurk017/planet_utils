@@ -14,4 +14,3 @@ setuptools
 pandas
 proj
 pyproj
-cartopy
