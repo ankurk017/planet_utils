@@ -7,6 +7,7 @@
    Home page <self>
    Jupyter tutorials <tutorials>
    API reference <_autosummary/planet_utils>
+   modules
 
 Welcome to Sphinx-Autosummary-Recursion documentation
 =====================================================

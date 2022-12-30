@@ -4,18 +4,10 @@ planet\_utils package
 Submodules
 ----------
 
-planet\_utils.ahps module
+planet\_utils.bike module
 -------------------------
 
-.. automodule:: planet_utils.ahps
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
-planet\_utils.coast module
---------------------------
-
-.. automodule:: planet_utils.coast
+.. automodule:: planet_utils.bike
    :members:
    :undoc-members:
    :show-inheritance:
