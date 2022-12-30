@@ -12,4 +12,6 @@ numpy
 xarray
 setuptools
 pandas
+proj
 pyproj
+cartopy
