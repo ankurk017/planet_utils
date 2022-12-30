@@ -32,8 +32,6 @@ extensions = [
     'sphinx.ext.autosummary',  # Create neat summary tables for modules/classes/methods etc
     'sphinx.ext.intersphinx',  # Link to other project's documentation (see mapping below)
     'sphinx.ext.viewcode',  # Add a link to the Python source code for classes, functions etc.
-    'nbsphinx',  # Integrate Jupyter Notebooks and Sphinx
-    'IPython.sphinxext.ipython_console_highlighting'
 ]
 
 # Mappings for sphinx.ext.intersphinx. Projects have to have Sphinx-generated doc! (.inv file)
