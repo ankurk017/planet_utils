@@ -14,3 +14,4 @@ setuptools
 pandas
 proj
 pyproj
+goes

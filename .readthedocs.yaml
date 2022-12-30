@@ -19,10 +19,7 @@ build:
     # golang: "1.17"
 
   apt_packages:
-    - libclang
     - cmake
-    - cartopy
-    - goes
 
 
 
